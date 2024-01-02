@@ -1,7 +1,10 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+
+fun main(args: Array<String>) {
+//    GlobalScope.launch {
+//        delay(1000L)
+//        println("Naoto.")
+//    }
+//    println("My name is")
+//    Thread.sleep(2000L)
 }
